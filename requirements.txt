@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 pygame>=2.5.0
 opencv-python>=4.8.0
 numpy>=1.24.0
 requests>=2.31.0
+=======
+pygame>=2.5.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+requests>=2.31.0
+>>>>>>> 48f43f693cdb2cc0d8bb427d4a3a3d510711a451
 dataclasses>=0.6; python_version < "3.7"
