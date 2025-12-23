@@ -22,7 +22,7 @@ A narrative-driven, AI-integrated detective simulation game inspired by the lege
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone  https://github.com/farhat-1203/cid-mystery-engine.git
 cd cid-silicon-casefiles
 ```
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 3. (Optional) Set up AI integration:
-   - For Ollama: Install Ollama and pull a model like `llama2`
+   - For Ollama: Install Ollama and pull a model like `llama2`  // implemented here //
    - For Gemini: Set your API key in the config
 
 ## 🎮 How to Play
