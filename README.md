@@ -101,30 +101,4 @@ src/
 └── assets/          # Game assets (future)
 ```
 
-## 📝 Master Prompt for AI Development
-
-Use this prompt when asking AI tools to help extend the game:
-
-> "I am developing a Python-based detective game titled 'CID: The Silicon Casefiles'. The gameplay is inspired by the Indian TV show CID. I need to build a system where the player acts as a Lead Investigator managing a team (ACP Pradyuman for logic, Daya for intimidation, Abhijeet for observation, and Dr. Salunkhe for forensics).
-> 
-> Core Mechanics: Evidence Graph system, AI Interrogation with stress meters, Forensic minigames using OpenCV. Please provide a Python implementation for [specific module]. Use Pygame for the interface and ensure the code is modular."
-
-## 🎵 Audio Integration
-
-The game is designed to support the iconic CID soundtrack and voice clips through Pygame's audio system.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Follow the modular architecture
-4. Test your changes
-5. Submit a pull request
-
-## 📄 License
-
-This project is for educational and entertainment purposes. CID is a trademark of Sony Entertainment Television.
-
----
-
 *"Kuch toh gadbad hai, Daya!"* 🔍
